@@ -21,7 +21,7 @@
 - library - numpy
 
 ## Conclusions
--Dermatofibroma has the least number of samples
+- Dermatofibroma has the least number of samples
 - Keratosis has the most number of samples dominating the other classes
 
 
